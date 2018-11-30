@@ -10,7 +10,7 @@ drink1 = Drink.new(name: "コーラ", price: 300, amount: 500)
 drink2 = Drink.new(name: "お茶", price: 200, amount: 400)
 drink3 = Drink.new(name: "オレンジ", price: 250, amount: 350)
 
-menus = [food1, food2, drink1, drink2]
+menus = [food1, food2, drink1, drink2, drink3]
 
 index = 0
 menus.each do |menu|
